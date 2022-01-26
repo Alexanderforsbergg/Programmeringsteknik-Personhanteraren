@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\Personhanteraren\Personhanteraren\bin\Debug\Personhanteraren.exe.config
+C:\Users\alexa\source\repos\Personhanteraren\Personhanteraren\bin\Debug\Personhanteraren.exe
+C:\Users\alexa\source\repos\Personhanteraren\Personhanteraren\bin\Debug\Personhanteraren.pdb
+C:\Users\alexa\source\repos\Personhanteraren\Personhanteraren\obj\Debug\Personhanteraren.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Personhanteraren\Personhanteraren\obj\Debug\Personhanteraren.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Personhanteraren\Personhanteraren\obj\Debug\Personhanteraren.exe
+C:\Users\alexa\source\repos\Personhanteraren\Personhanteraren\obj\Debug\Personhanteraren.pdb
+C:\Users\alexa\source\repos\Personhanteraren\Personhanteraren\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexa\source\repos\Personhanteraren\Personhanteraren\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexa\source\repos\Personhanteraren\Personhanteraren\obj\Debug\Personhanteraren.csproj.CopyComplete

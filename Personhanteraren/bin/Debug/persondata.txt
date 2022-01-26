@@ -1,0 +1,1 @@
+[{"Namn":"Alexander","Personnr":1991,"Anställningstyp":"Fast"}]
